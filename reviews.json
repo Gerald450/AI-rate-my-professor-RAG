@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Richards",
+        "subject": "Physics 101",
+        "stars": 4,
+        "review": "Dr. Richards is knowledgeable and her lectures are clear. However, the exams are tough."
+      },
+      {
+        "professor": "Dr. John Matthews",
+        "subject": "Chemistry 202",
+        "stars": 5,
+        "review": "Amazing professor! He makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Angela Martin",
+        "subject": "Mathematics 305",
+        "stars": 3,
+        "review": "Her lectures are detailed, but she doesn't explain concepts in a way that's easy to grasp."
+      },
+      {
+        "professor": "Dr. Michael Johnson",
+        "subject": "Biology 150",
+        "stars": 5,
+        "review": "Dr. Johnson's passion for biology is contagious. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Susan Lee",
+        "subject": "English Literature 210",
+        "stars": 2,
+        "review": "She is a strict grader and doesn't provide much feedback on assignments."
+      },
+      {
+        "professor": "Dr. Robert Brown",
+        "subject": "Economics 101",
+        "stars": 4,
+        "review": "Good professor, but you need to put in a lot of work to do well in his class."
+      },
+      {
+        "professor": "Dr. Linda Green",
+        "subject": "Philosophy 110",
+        "stars": 5,
+        "review": "Incredibly engaging and thought-provoking lectures. Highly recommend."
+      },
+      {
+        "professor": "Dr. Thomas Wilson",
+        "subject": "Sociology 101",
+        "stars": 3,
+        "review": "His classes are interesting, but sometimes hard to follow."
+      },
+      {
+        "professor": "Dr. Karen White",
+        "subject": "Psychology 201",
+        "stars": 5,
+        "review": "Dr. White is fantastic! She really cares about her students."
+      },
+      {
+        "professor": "Dr. David Harris",
+        "subject": "History 101",
+        "stars": 4,
+        "review": "His lectures are insightful, but his exams are very challenging."
+      },
+      {
+        "professor": "Dr. Lisa Thompson",
+        "subject": "Political Science 303",
+        "stars": 3,
+        "review": "She knows her material, but her teaching style is a bit dry."
+      },
+      {
+        "professor": "Dr. Richard King",
+        "subject": "Computer Science 102",
+        "stars": 5,
+        "review": "Great professor with a lot of practical knowledge. His coding examples are super helpful."
+      },
+      {
+        "professor": "Dr. Elizabeth Taylor",
+        "subject": "Art History 205",
+        "stars": 4,
+        "review": "She is passionate about art history, but her lectures can be a bit long."
+      },
+      {
+        "professor": "Dr. Steven Wright",
+        "subject": "Statistics 200",
+        "stars": 2,
+        "review": "The course material is difficult and his explanations aren't very clear."
+      },
+      {
+        "professor": "Dr. Amanda Scott",
+        "subject": "Environmental Science 150",
+        "stars": 5,
+        "review": "Engaging lectures and she is very approachable. Highly recommended!"
+      },
+      {
+        "professor": "Dr. James Moore",
+        "subject": "Anthropology 120",
+        "stars": 4,
+        "review": "Interesting course, but his grading is a bit harsh."
+      },
+      {
+        "professor": "Dr. Jessica Adams",
+        "subject": "Engineering 101",
+        "stars": 3,
+        "review": "Her lectures are detailed, but the pace is too fast."
+      },
+      {
+        "professor": "Dr. Charles Miller",
+        "subject": "Law 220",
+        "stars": 5,
+        "review": "Brilliant professor with a deep understanding of the subject. Highly recommend."
+      },
+      {
+        "professor": "Dr. Patricia Davis",
+        "subject": "Ethics 110",
+        "stars": 4,
+        "review": "Her classes are engaging, but the assignments are challenging."
+      },
+      {
+        "professor": "Dr. Daniel Clark",
+        "subject": "Music Theory 101",
+        "stars": 5,
+        "review": "He has a deep passion for music and it shows in his teaching."
+      }
+    ]
+  }
+  
